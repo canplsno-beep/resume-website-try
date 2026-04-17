@@ -131,7 +131,7 @@ export default function Home() {
       
       <header className="hero" id="top">
         <div className="container">
-          <h1>M C</h1>
+          <h1>Mate Colic</h1>
           <h2>Software QA Engineer</h2>
           <p>
             I build reliable, scalable test automation with clean structure, strong validation, and consistent quality across web applications.
